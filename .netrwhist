@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/coder/programming/mongoClass/mongo101/week1/hw1-3_568d3a05d8ca390830d6eb70/hw1-3/node_modules'
+let g:netrw_dirhist_2='/home/coder/programming/reqHeadParser/node_modules'
+let g:netrw_dirhist_3='/home/coder/programming/timurl/node_modules'
+let g:netrw_dirhist_4='/home/coder/programming/imagesearch-al/.git'
